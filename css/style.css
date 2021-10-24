@@ -73,7 +73,7 @@ li {
 }
 
 .container .col-left .nav-bar .brand:before {
-  content: url("../img/Union.svg");
+  content: url(../img/Union.svg);
   margin-bottom: 10px;
 }
 
@@ -457,7 +457,7 @@ li {
   }
   /** Header Styles **/
   .container {
-    background-image: url("../img/image_summer.png");
+    background-image: url(../img/image_summer.png);
     background-position: center;
     background-repeat: none;
   }

@@ -73,7 +73,7 @@ li {
 }
 
 .container .col-left .nav-bar .brand:before {
-  content: url("../img/Union.svg");
+  content: url(../img/Union.svg);
   margin-bottom: 10px;
 }
 
@@ -326,7 +326,6 @@ li {
   background-color: #cc0000;
   border: 2px solid #cc0000;
 }
-/** Social icon :Pressed **/
 
 /** Social icon styles **/
 
@@ -385,7 +384,7 @@ li {
 /** Mobile Media */
 @media screen and (max-width: 767px) {
   .container {
-    background-image: url("../img/image_summer.png");
+    background-image: url(../img/image_summer.png);
     background-position: center;
     background-repeat: none;
   }
